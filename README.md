@@ -4,7 +4,7 @@ Simple bot template for you to modify. This bot was designed for pairs trading b
 
 Please note this bot is offered AS IS and I take NO RESPONSIBILITY for any money you may lose or ANY OTHER BAD THINGS that might happen as a result of using or attempting to use this script.
 
-With that said, if you want to ask me any questions about it I'll be happy to answer; just message me on github. 
+With that said, if you want to ask me any questions about it I'll be happy to answer; just message at jb400 [at] tutanota.com. 
 
 IMPORTANT:
 
