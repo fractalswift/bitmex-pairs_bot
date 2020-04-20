@@ -18,7 +18,7 @@ Line59.60 - your API key goes here. The bot will not work without being logged i
 
 Line 23 - 27: Pairs and static ratio mean. If you want you could have the bot update and calculate the static ratio mean dynamically or manaully adjust it each day depending on your strategy. This is just a default placeholder value.
 
-This bot connects to the Bitmex REST API which is rate-limited at 300 requests per 5 minutes. Simply run it using crontab at whatever time interval suits your strategy and it will ping the Bitmex server accordingly.
+This bot connects to the Bitmex REST API which is rate-limited at 300 requests per 5 minutes. Simply run it at whatever time interval suits your strategy and it will ping the Bitmex server accordingly.
 
 This is one of my earliest bots and should be quite simple to figure out. If you are interested in more complex bots, don't be shy about sending me a message. 
 
